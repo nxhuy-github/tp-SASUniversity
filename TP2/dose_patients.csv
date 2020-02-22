@@ -1,0 +1,189 @@
+identifiant;statut;biomarqueur;dose
+1001;non malade;1;19.35
+1003;non malade;1;10.894
+1005;non malade;1;19.266
+1007;non malade;1;12.445
+1009;non malade;1;17.887
+1011;non malade;1;16.035
+1013;non malade;1;45.344
+1015;non malade;1;9.248
+1017;non malade;1;14.541
+1019;non malade;1;16.157
+1021;non malade;1;7.351
+1023;non malade;1;10.92
+1025;non malade;1;16.109
+1027;non malade;1;20.448
+1029;non malade;1;14.751
+1031;non malade;1;20.52
+1033;non malade;1;11.992
+1035;non malade;1;6.324
+1037;non malade;1;19.49
+1039;non malade;1;19.676
+1041;non malade;1;17.688
+1043;non malade;1;12.538
+1045;non malade;1;16.261
+1047;non malade;1;16.19
+1049;non malade;1;16.846
+1051;non malade;1;10.738
+1053;non malade;1;13.951
+1055;non malade;1;18.592
+1057;non malade;1;17.159
+1059;non malade;1;13.391
+1061;non malade;1;18.904
+1063;non malade;1;6.324
+1065;non malade;1;21.052
+1067;non malade;1;14.057
+1069;non malade;1;19.97
+1071;non malade;1;10.672
+1073;non malade;1;18.307
+1075;non malade;1;16.188
+1077;non malade;1;11.357
+1079;non malade;1;16.324
+1081;non malade;1;15.609
+1083;non malade;1;14.272
+1085;non malade;1;17.647
+1087;non malade;1;14.587
+1089;non malade;1;13.405
+1091;non malade;1;10.544
+1093;non malade;1;10.766
+1095;non malade;1;12.812
+1097;non malade;1;12.179
+1099;malade;1;23.98
+1102;malade;1;19.805
+1105;malade;1;47.741
+1108;malade;1;34.448
+1111;malade;1;20.822
+1114;malade;1;27.889
+1117;malade;1;29.211
+1120;malade;1;34.223
+1123;malade;1;33.304
+1126;malade;1;36.404
+1129;malade;1;29.598
+1132;malade;1;34.363
+1135;malade;1;29.981
+1138;malade;1;16.622
+1141;malade;1;33.28
+1144;malade;1;30.689
+1147;malade;1;31.192
+1150;malade;1;18.363
+1153;malade;1;23.959
+1156;malade;1;37.015
+1159;malade;1;28.725
+1162;malade;1;36.448
+1165;malade;1;31.076
+1168;malade;1;45.565
+1171;malade;1;22.245
+1174;malade;1;28.429
+1177;malade;1;24.198
+1180;malade;1;26.424
+1183;malade;1;29.316
+1186;malade;1;28.426
+1189;malade;1;26.021
+1192;malade;1;28.673
+1195;malade;1;11.75
+1198;malade;1;28.174
+1201;malade;1;23.805
+1204;malade;1;32.5
+1207;malade;1;41.494
+1210;malade;1;34.466
+1213;malade;1;25.5
+1216;malade;1;31.34
+1219;malade;1;23.279
+1222;malade;1;34.134
+1225;malade;1;26.48
+1228;malade;1;23.221
+1231;malade;1;43.727
+1001;non malade;2;22.877
+1003;non malade;2;16.944
+1005;non malade;2;31.996
+1007;non malade;2;15.377
+1009;non malade;2;13.232
+1011;non malade;2;30.342
+1013;non malade;2;16.213
+1015;non malade;2;7.458
+1017;non malade;2;22.814
+1019;non malade;2;25.313
+1021;non malade;2;26.368
+1023;non malade;2;14.029
+1025;non malade;2;18.368
+1027;non malade;2;18.973
+1029;non malade;2;14.906
+1031;non malade;2;25.618
+1033;non malade;2;22.500
+1035;non malade;2;11.011
+1037;non malade;2;19.578
+1039;non malade;2;22.704
+1041;non malade;2;18.367
+1043;non malade;2;20.861
+1045;non malade;2;14.387
+1047;non malade;2;14.018
+1049;non malade;2;26.459
+1051;non malade;2;20.965
+1053;non malade;2;12.308
+1055;non malade;2;15.405
+1057;non malade;2;18.677
+1059;non malade;2;24.369
+1061;non malade;2;20.062
+1063;non malade;2;23.623
+1065;non malade;2;23.089
+1067;non malade;2;27.747
+1069;non malade;2;18.435
+1071;non malade;2;25.849
+1073;non malade;2;18.923
+1075;non malade;2;22.933
+1077;non malade;2;16.135
+1079;non malade;2;16.737
+1081;non malade;2;23.729
+1083;non malade;2;9.472
+1085;non malade;2;23.778
+1087;non malade;2;19.795
+1089;non malade;2;24.759
+1091;non malade;2;13.908
+1093;non malade;2;13.976
+1095;non malade;2;9.699
+1097;non malade;2;34.016
+1099;malade;2;20.704
+1102;malade;2;18.625
+1105;malade;2;24.735
+1108;malade;2;17.745
+1111;malade;2;20.244
+1114;malade;2;26.023
+1117;malade;2;14.663
+1120;malade;2;19.190
+1123;malade;2;12.762
+1126;malade;2;17.792
+1129;malade;2;18.970
+1132;malade;2;20.815
+1135;malade;2;16.580
+1138;malade;2;15.690
+1141;malade;2;21.815
+1144;malade;2;19.595
+1147;malade;2;17.051
+1150;malade;2;21.297
+1153;malade;2;19.786
+1156;malade;2;34.598
+1159;malade;2;28.376
+1162;malade;2;12.645
+1165;malade;2;21.772
+1168;malade;2;22.808
+1171;malade;2;23.195
+1174;malade;2;23.160
+1177;malade;2;12.589
+1180;malade;2;14.459
+1183;malade;2;23.495
+1186;malade;2;15.574
+1189;malade;2;16.064
+1192;malade;2;12.707
+1195;malade;2;18.997
+1198;malade;2;18.580
+1201;malade;2;21.180
+1204;malade;2;23.154
+1207;malade;2;15.291
+1210;malade;2;29.612
+1213;malade;2;13.606
+1216;malade;2;32.529
+1219;malade;2;18.904
+1222;malade;2;16.825
+1225;malade;2;16.003
+1228;malade;2;24.605
+1231;malade;2;27.724
